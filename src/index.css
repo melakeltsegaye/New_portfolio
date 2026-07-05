@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+.scroll-container {
+  scroll-behavior: smooth;
+  overflow-y: auto;
+}
+
+section {
+  scroll-margin-top: 90px;
+}
