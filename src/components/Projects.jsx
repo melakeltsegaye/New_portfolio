@@ -16,7 +16,7 @@ const projects = [
     description:
       "A full-stack e-commerce application built on the MERN stack, covering product listings, cart flow, and order handling end to end.",
     tags: ["MongoDB", "Express", "React", "Node.js"],
-    link: "https://mern-e-commerce-5-ypjq.onrender.com/",
+    link: "https://mern-e-commerce-6-51n3.onrender.com",
     icon: ShoppingCart,
   },
   {
