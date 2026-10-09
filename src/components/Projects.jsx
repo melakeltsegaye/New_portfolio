@@ -20,11 +20,11 @@ const projects = [
     icon: ShoppingCart,
   },
   {
-    title: "Project 5",
+    title: "ayana",
     description:
       "A front-end project focused on clean layout and interactive UI, built and deployed as a static site.",
     tags: ["HTML", "CSS", "JavaScript"],
-    link: "https://melakeltsegaye.github.io/project5/",
+    link: "https://ayana-real-estate.onrender.com",
     icon: LayoutTemplate,
   },
 ];
